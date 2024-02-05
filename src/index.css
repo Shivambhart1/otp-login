@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+:root {
+  --black-b-color: #10100e;
+  --gray-d3-color: #191815;
+  --gray-d2-color: #30302b;
+  --gray-d1-color: #606055;
+  --gray-b-color: #c0c0ab;
+  --gray-l1-color: #e8e8cf;
+  --gray-l2-color: #f8f8dd;
+  --white-b-color: #ffffe3;
+  --theme-b-color: #ffffe3;
+}
+
+body {
+  margin: 0 auto;
+  padding: 50px;
+  background: var(--black-b-color);
+  color: var(--gray-l1-color);
+}
+
+* {
+  font-family: "Bebas Neue", sans-serif;
+}

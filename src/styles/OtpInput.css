@@ -1,0 +1,16 @@
+div {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+
+.otpInput {
+  width: 70px;
+  height: 70px;
+  background: transparent;
+  text-align: center;
+  color: white;
+  font-size: 26px;
+  font-weight: 200;
+  border: 1px solid white;
+}
